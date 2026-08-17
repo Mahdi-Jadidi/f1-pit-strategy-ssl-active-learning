@@ -1,0 +1,16 @@
+method,class,AUC
+Baseline,Emergency,0.9451851851851852
+Baseline,Overcut,1.0
+Baseline,Standard,0.9476127320954907
+Baseline,Undercut,1.0
+Baseline,Mean,0.973199479320169
+Best Pseudo Labeling,Emergency,0.9451851851851852
+Best Pseudo Labeling,Overcut,1.0
+Best Pseudo Labeling,Standard,0.9476127320954907
+Best Pseudo Labeling,Undercut,1.0
+Best Pseudo Labeling,Mean,0.973199479320169
+Best Active Learning,Emergency,0.9555555555555555
+Best Active Learning,Overcut,1.0
+Best Active Learning,Standard,0.9509283819628648
+Best Active Learning,Undercut,1.0
+Best Active Learning,Mean,0.9766209843796051

@@ -1,0 +1,5 @@
+method,round,total_labeled,macro_f1,plateaued
+Pseudo t=0.55,3,8180,0.7930969030969032,False
+AL Least Confidence,8,828,0.881903642773208,False
+AL Margin,8,828,0.8995132743362831,False
+AL Entropy,6,788,0.8522222222222222,True
