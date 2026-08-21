@@ -1,5 +1,3 @@
-from collections.abc import Callable
-
 import pandas as pd
 from sklearn.base import clone
 from sklearn.compose import ColumnTransformer
